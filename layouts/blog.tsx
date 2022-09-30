@@ -14,7 +14,7 @@ export default function BlogLayout({
 }: PropsWithChildren<{ post: Post }>) {
   return (
     <Container
-      title={`${post.title} – Lee Robinson`}
+      title={`${post.title} – John Dagdelen`}
       description={post.excerpt}
       image={urlForImage(post.coverImage).url()}
       date={new Date(post.date).toISOString()}
@@ -27,7 +27,7 @@ export default function BlogLayout({
         <div className="flex flex-col items-start justify-between w-full mt-2 md:flex-row md:items-center">
           <div className="flex items-center">
             <Image
-              alt="Lee Robinson"
+              alt="John Dagdelen"
               height={24}
               width={24}
               sizes="20vw"
@@ -35,7 +35,7 @@ export default function BlogLayout({
               className="rounded-full"
             />
             <p className="ml-2 text-sm text-gray-700 dark:text-gray-300">
-              {'Lee Robinson / '}
+              {'John Dagdelen / '}
               {format(parseISO(post.date), 'MMMM dd, yyyy')}
             </p>
           </div>
@@ -55,7 +55,7 @@ export default function BlogLayout({
           <div className="text-sm text-gray-700 dark:text-gray-300">
             <a
               href={`https://mobile.twitter.com/search?q=${encodeURIComponent(
-                `https://leerob.io/blog/${post.slug}`
+                `https://johndagdelen.com/blog/${post.slug}`
               )}`}
               target="_blank"
               rel="noopener noreferrer"
@@ -64,7 +64,7 @@ export default function BlogLayout({
             </a>
             {` • `}
             <a
-              href="https://github.com/leerob/leerob.io/issues"
+              href="https://github.com/jdagdelen/johndagdelen.com/issues"
               target="_blank"
               rel="noopener noreferrer"
             >

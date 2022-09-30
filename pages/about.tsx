@@ -15,10 +15,10 @@ export default function About() {
           <h2>Links</h2>
           <ul>
             <li>
-              Twitter: <a href="https://twitter.com/jmdagdelen">@leeerob</a>
+              Twitter: <a href="https://twitter.com/jmdagdelen">@jmdagdelen</a>
             </li>
             <li>
-              GitHub: <a href="https://github.com/jdagdelen">@leerob</a>
+              GitHub: <a href="https://github.com/jdagdelen">@jdagdelen</a>
             </li>
             <li>
               Website:{' '}
@@ -42,27 +42,6 @@ export default function About() {
             <a href="https://perssongroup.lbl.gov">Persson Group</a>, where
             he uses machine learning and natural language processing for 
             materials discovery and design. 
-          </p>
-          <h3>Long, 1st Person</h3>
-          <p>
-            Hey, I'm Lee. I'm the VP of Developer Experience at{' '}
-            <a href="https://vercel.com/">Vercel</a>, where my team helps
-            developers build a faster web. I'm a Next.js contributor and help
-            lead our open-source communities. I'm passionate about frontend
-            development and have created courses on React, Next.js, and web
-            development. I'm an advisor and investor in early stage startups.
-          </p>
-          <h3>Short, 3rd Person</h3>
-          <p>
-            Lee Robinson is the VP of Developer Experience at{' '}
-            <a href="http://vercel.com/">Vercel</a>, where he helps developers
-            build a faster web.
-          </p>
-          <h3>Short, 1st Person</h3>
-          <p>
-            Hey, I'm Lee. I'm the VP of Developer Experience at{' '}
-            <a href="https://vercel.com/">Vercel</a>, where my team helps
-            developers build a faster web.
           </p>
           <h3>Education</h3>
           <p>

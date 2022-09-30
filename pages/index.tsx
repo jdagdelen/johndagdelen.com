@@ -47,8 +47,8 @@ export default function Home() {
             Here are some links to guides I've written and other notable things.
           </p>
           <LinkCard
-            href="https://efficientml.johndagdelen.com/"
-            title="My Guide for efficient ML experiments"
+            href="https://lbnlp.gitbook.io/lbnlp-workflows/"
+            title="My guide for efficient ML experiments"
           />
           <LinkCard
             href="https://twitter.com/jmdagdelen/status/1513058838248714244?s=20&t=l8y48U-nezGUSIJIaj3Xqw"

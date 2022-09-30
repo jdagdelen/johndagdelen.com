@@ -24,7 +24,6 @@ export async function getServerSideProps({ res }) {
       'blog',
       'dashboard',
       'newsletter',
-      'tweets',
       'uses'
     ]
   ];

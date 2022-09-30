@@ -33,10 +33,7 @@ export default function About() {
               </a>
             </li>
           </ul>
-          <h2>Bio</h2>
-          <h3>Job Title</h3>
-          <p>John Dagdelen, PhD Candidate at UC Berkeley</p>
-          <h3>Long, 3rd Person</h3>
+          <h2>John Dagdelen, PhD Candidate at UC Berkeley</h2>
           <p>
             John Dagdelen is a PhD candidate in the {' '}
             <a href="https://perssongroup.lbl.gov">Persson Group</a>, where

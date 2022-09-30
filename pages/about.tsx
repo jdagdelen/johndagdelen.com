@@ -48,9 +48,9 @@ export default function About() {
             Univeristy of California, Berkeley
           </p>
           <ul>
-            <li>B.Sc. Materials Science and Engineering 2016</li>
-            <li> M.Sc. Materials Science and Engineering 2019</li>
-            <li>Ph.D. Materials Science and Engineering 2021</li>
+            <li>BSc Materials Science and Engineering 2016</li>
+            <li>MSc Materials Science and Engineering 2019</li>
+            <li>PhD Materials Science and Engineering December 2022 (expected)</li>
           </ul>
           <h2>Headshots</h2>
           <div className="flex space-x-8">

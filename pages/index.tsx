@@ -52,7 +52,7 @@ export default function Home() {
           />
           <LinkCard
             href="https://twitter.com/jmdagdelen/status/1513058838248714244?s=20&t=l8y48U-nezGUSIJIaj3Xqw"
-            title="My Twitter thread that went viral about my Google Brain internship"
+            title="My Twitter thread about what I learned in my Google Brain internship"
           />
           <LinkCard
             href="https://scholar.google.com/citations?user=TiCS5FEAAAAJ&hl=en"
